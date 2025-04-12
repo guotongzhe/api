@@ -1,0 +1,11 @@
+{
+    "base_sys_param":[
+        {
+          "keyName": "aiContextCount",
+          "name": "Ai保留上下文数量",
+          "data": "15",
+          "dataType": 0,
+          "remark": "保留上下文数量越多，消耗的token数越大"
+        }
+      ]
+}
